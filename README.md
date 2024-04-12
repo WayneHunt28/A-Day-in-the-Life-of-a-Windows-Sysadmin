@@ -1,3 +1,7 @@
+Module 7 Challenge 
+UWA Cybersecurity Bootcamp 2024
+
+
 A Day in the Life of a Windows Sysadmin
 This Challenge assignment builds on the Group Policy Objectives activities from the previous class. You will create domain-hardening GPOs and revisit some PowerShell fundamentals.
 
